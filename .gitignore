@@ -1,4 +1,9 @@
 *
+
 !loose_line_remover.rb
 !loose_line_remover/
 !loose_line_remover/*
+
+!folding_mark_maker.rb
+!folding_mark_maker/
+!folding_mark_maker/*
